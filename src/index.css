@@ -12,7 +12,7 @@
 
 :root{
 /* these variables are used all over the code */
-    --color-background: #1f1f38;
+    --color-background: #212121;
     --color-background-variant: #2c2c6c;
     --color-primary: #4db5ff;
     --color-primary-variant: rgba(77, 181, 255, 0.4);
